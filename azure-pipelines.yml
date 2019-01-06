@@ -18,6 +18,5 @@ steps:
 - script: |
     npm install -g @angular/cli
     npm install
-    ng test --browsers=PhantomJS --reporters=progress,junit
     ng build --prod
   displayName: 'npm install, Test and build'
