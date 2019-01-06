@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<testsuite name="PhantomJS 2.1.1 (Windows 8.0.0)" package="" timestamp="2019-01-06T14:35:12" id="0" hostname="LAPTOP-KIQ35VFG" tests="3" errors="0" failures="0" time="0.846">
+<testsuite name="PhantomJS 2.1.1 (Windows 8.0.0)" package="" timestamp="2019-01-06T16:39:13" id="0" hostname="LAPTOP-KIQ35VFG" tests="3" errors="0" failures="0" time="0.842">
   <properties>
     <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1"/>
   </properties>
-  <testcase name="AppComponent should create the app" time="0.372" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
-  <testcase name="AppComponent should have as title 'angular-demo'" time="0.253" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
-  <testcase name="AppComponent should render title in a h1 tag" time="0.221" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
+  <testcase name="AppComponent should create the app" time="0.293" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
+  <testcase name="AppComponent should have as title 'angular-demo'" time="0.237" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
+  <testcase name="AppComponent should render title in a h1 tag" time="0.312" classname="PhantomJS_2_1_1_(Windows_8_0_0).AppComponent"/>
   <system-out>
     <![CDATA[
 ]]>
